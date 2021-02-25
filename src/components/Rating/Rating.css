@@ -1,0 +1,8 @@
+.ratingContent {
+  margin-left: 2%;
+  justify-content: center;
+}
+
+.movieRating .anticon svg {
+  font-size: 15px;
+}
